@@ -27,6 +27,8 @@ A personal website built using React and Framer Motion to showcase my skills and
 	•	A modern UI/UX design.
 	•	Animations and interactive elements to highlight my work.
 	•	A mobile-responsive layout to ensure accessibility across all devices.
+
+
 🎯 Career Goals
 By March 2025, I plan to complete:
 	•	Master of Science in IT Management: Gaining a deep understanding of IT systems, project management, and emerging technologies.
