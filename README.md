@@ -1,48 +1,29 @@
-# 💫 About Me:
-I am Abdulaziz, an aspiring front-end developer and IT management professional. Currently, I’m focused on building impactful web applications using modern technologies such as React, TailwindCSS, Redux, and API integration. With my technical expertise and academic background, I aim to merge my passion for development with my project management skills to excel in tech leadership roles.
-🔥 Skills and Expertise
-Front-End Development
-	•	Languages: HTML5, CSS3, JavaScript (ES6+)
-	•	Frameworks & Libraries: React, Redux, TailwindCSS, Framer Motion, GSAP
-	•	Version Control: Git, GitHub
-	•	API Integration: Axios, REST APIs
-	•	Responsive Design: Mobile-first design, TailwindCSS, Flexbox
-	•	Frontend Tools: Vite, React Router, Axios
-Project Management
-	•	Currently pursuing the Google Project Management Professional Certificate.
-	•	Familiar with Agile methodologies (Scrum, Kanban) and tools like Jira and Trello.
-	•	Hands-on experience in task management, sprint planning, and project timelines.
-Data and Analytics (Future Goal)
-	•	Learning Google Analytics and SQL for data-driven decision making.
-	•	Planning to integrate analytics tracking into future projects to gain insights into user behavior and optimize performance.
-🚀 Current Projects
-1. E-Commerce Platform for Mobile Cases
-An ongoing project where I am developing a full-fledged e-commerce platform using React and Redux. The application includes:
-	•	Product listing pages for multiple brands.
-	•	Shopping cart functionality with Redux for state management.
-	•	Payment gateway integration (Stripe).
-	•	Responsive design using TailwindCSS for mobile-first implementation.
-2. Personal Portfolio Website
-A personal website built using React and Framer Motion to showcase my skills and projects. It includes:
-	•	A modern UI/UX design.
-	•	Animations and interactive elements to highlight my work.
-	•	A mobile-responsive layout to ensure accessibility across all devices.
+💫 About Me
+I’m Abdul Aziz — a Full Stack Developer and AI SaaS Engineer specializing in building scalable, AI-powered applications that solve real-world problems. With a strong foundation in React, Next.js, TypeScript, and Node.js, I bring projects from concept to production with a focus on performance, security, and great user experience.
 
+🚀 Recent AI SaaS Projects
 
-🎯 Career Goals
-By March 2025, I plan to complete:
-	•	Master of Science in IT Management: Gaining a deep understanding of IT systems, project management, and emerging technologies.
-	•	Front-End Development Mastery: Completing advanced projects using React and Next.js to showcase my expertise in building scalable web applications.
-	•	Google Project Management Certification: Acquiring the skills needed to manage development teams and lead projects in an Agile environment.
-	•	Data Analytics: Gaining proficiency in Google Analytics and SQL to add data-driven insights to my projects.
-📈 Future Plans
-After mastering front-end development, I aim to:
-	•	Transition into project management to lead cross-functional teams and manage tech projects.
-	•	Continue learning data analytics to implement data-driven decisions in both development and management roles.
-	•	Pursue roles such as Project Coordinator, Junior Project Manager, or Frontend Team Lead to merge my technical and managerial skills.
-📞 Get in Touch
-Feel free to connect with me on LinkedIn or explore my projects here on GitHub. I’m always open to collaborating on exciting projects and expanding my network in the tech world.
+	•	SaaScribe.ai (SaaScribe AI) – AI-powered PDF chatbot enabling users to upload documents and interact using natural language.
+Tech: React, Next.js, LangChain, OpenAI, Pinecone, Clerk, Firebase, Stripe (billing), Responsive UI.
 
+	•	CallSage – AI-powered video conferencing platform with custom AI agents, searchable transcripts, and real-time insights.
+Tech: Stream, OpenAI, Neon, Drizzle ORM, BetterAuth, Inngest, Git workflows, automated code reviews.
+
+💡 Core Skills & Expertise
+	•	Frontend Development: React, Next.js, TailwindCSS, Framer Motion, GSAP
+	•	Backend & APIs: Node.js, Express.js, REST APIs, GraphQL
+	•	AI & Data: LangChain, OpenAI, Pinecone, RAG Pipelines, Vector Databases
+	•	Database & Infrastructure: PostgreSQL, Firebase, MongoDB, Neon, Vercel
+	•	Auth & Payments: Clerk, BetterAuth, Stripe (Subscriptions, Free Trials)
+	•	Project Management: Agile (Scrum, Kanban), Jira, Trello | M.S. in IT Management
+
+🎯 What I Deliver
+	•	End-to-end development of production-ready AI SaaS products.
+	•	Integration of LLMs, vector search, and AI pipelines into real-world applications.
+	•	Secure, scalable, and maintainable systems with excellent UI/UX.
+
+📬 Let’s Connect
+If you’re building something in AI, SaaS, or full-stack systems, or looking for a developer who can ship from idea to deployment, I’d love to connect.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdul aziz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abd_az1z_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul_aziz-87296/b179/) 
